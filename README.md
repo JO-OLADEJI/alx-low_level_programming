@@ -10,3 +10,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Compiile a C file and create an executable name `cisfun`.
 - Using the `puts` function, write a program that prints exactly `"Programming is like building a multilingual puzzle` followed by a new line.
 - Using the `printf` function, write a program that prints exactly `with proper grammar, but the outcome is a piece of art,` followed by a new line.
+- Print the size of various types on the computer it is compiled and run on.
