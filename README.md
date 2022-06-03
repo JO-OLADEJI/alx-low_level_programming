@@ -18,3 +18,4 @@ Repo containing exercises for introduction to the C programming language in the 
 
 ### 0x01 Variables, if, else, while
 - Print whether the random number stored in the `n` variable is positive, negative or zero.
+- Print the last digit of the random number stored in `n`. Check if the number is greater than 5, is 0 or less than 6.
