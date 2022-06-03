@@ -13,3 +13,8 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print the size of various types on the computer it is compiled and run on.
 - Generate the assembly code (Intel syntax) of a C code and save it in an output file.
 - Print exactly `and that piece of art is useful" - Dora Korpar, 2015-10-19` without `printf` or `puts`, followed by a new line, to the standard error.
+
+<br />
+
+### 0x01 Variables, if, else, while
+- Print whether the random number stored in the `n` variable is positive, negative or zero.
