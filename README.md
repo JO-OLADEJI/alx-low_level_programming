@@ -20,3 +20,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print whether the random number stored in the `n` variable is positive, negative or zero.
 - Print the last digit of the random number stored in `n`. Check if the number is greater than 5, is 0 or less than 6.
 - Print the lettrs of the alphabets in lowercase using `putchar`.
+- Print alphabets in lowercase, then uppercase, followed by a new line using `putchar`.
