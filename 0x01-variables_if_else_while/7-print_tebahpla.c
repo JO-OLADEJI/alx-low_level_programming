@@ -3,7 +3,7 @@
 /**
  * main - entry point of the program
  *
- * Description: prints all letters of the alphabet in lowercase
+ * Description: prints all lowercase letters of the alphabet in reverse
  *
  * Return: zero (0) if run successfully
  */
@@ -15,11 +15,11 @@ int main(void)
 	int length = sizeof(alphabets) / sizeof(alphabets[0]);
 	int i;
 
-	for (i = 0; i < length; i++)
+	for (i = length - 1; i >= 0; i--)
 	{
 		putchar(alphabets[i]);
 	}
-	putchar('\n');
 
+	putchar('\n');
 	return (0);
 }
