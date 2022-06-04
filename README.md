@@ -22,4 +22,5 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print the lettrs of the alphabets in lowercase using `putchar`.
 - Print alphabets in lowercase, then uppercase, followed by a new line using `putchar`.
 - Print alphabets in lowercase except `q` and `e` using `putchar`.
-- Print all single digit numbers of base 10 starting from 0, followed by a new line. 
+- Print all single digit numbers of base 10 starting from 0, followed by a new line.
+- Print all single digit numbers of base 10 starting from 0, followed by a new line using `putchar`.
