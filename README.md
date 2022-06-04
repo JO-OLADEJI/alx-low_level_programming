@@ -28,3 +28,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print all the numbers of base 16 in lowercase, followed by a new line. 
 - Print all possible combinations of single-digit numbers seperated by `, ` using `putchar`.
 - Print combinations of 2 digits without repitition.
+- Print combinations of 3 digits without  any repititions.
