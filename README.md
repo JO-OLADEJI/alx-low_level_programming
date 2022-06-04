@@ -25,3 +25,5 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print all single digit numbers of base 10 starting from 0, followed by a new line.
 - Print all single digit numbers of base 10 starting from 0, followed by a new line using `putchar`.
 - Print the lowercase alphabet in reverse, followed by a new line.
+- 
+- Print all possible combinations of single-digit numbers seperated by `, ` using `putchar`.
