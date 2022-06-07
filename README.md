@@ -30,3 +30,8 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print combinations of 2 digits without repitition.
 - Print combinations of 3 digits without  any repititions.
 - Print all possible combinations of two two-digit numbers.
+
+<br />
+
+### 0x02 Functions, Nested loops
+- Print `_putchar`, followed by a new line.
