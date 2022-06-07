@@ -15,3 +15,12 @@ int _putchar(char c);
  * Return: nothing (void)
  */
 void print_alphabet(void);
+
+/**
+ * print_alphabet_x10 - function prototype
+ * 
+ * Description: creates a prototype for the print_alphabet_x10 function
+ * 
+ * Return: nothing (void)
+ */
+void print_alphabet_x10(void);
