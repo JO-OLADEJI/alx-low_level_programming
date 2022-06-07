@@ -24,3 +24,13 @@ void print_alphabet(void);
  * Return: nothing (void)
  */
 void print_alphabet_x10(void);
+
+/**
+ * _islower - function prototype
+ * @c - the character to be checked
+ * 
+ * Description: creates a prototype for the _islower function
+ * 
+ * Return: 1 if c is lowercase, 0 otherwise
+ */
+int _islower(int c);

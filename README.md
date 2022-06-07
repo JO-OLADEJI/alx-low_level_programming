@@ -37,3 +37,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print `_putchar`, followed by a new line.
 - Print the alphabets, in lowercase, followed by a new line.
 - Print the alphabets 10 times in lowercase, followed by a new line.
+- Check for lowercase character. Return `1` if found, `0` otherwise.
