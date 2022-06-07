@@ -27,7 +27,7 @@ void print_alphabet_x10(void);
 
 /**
  * _islower - function prototype
- * @c - the character to be checked
+ * @c: the character to be checked
  * 
  * Description: creates a prototype for the _islower function
  * 

@@ -2,10 +2,10 @@
 
 /**
  * _islower - function prototype
- * @c - the character to be checked
- * 
+ * @c: the character to be checked
+ *
  * Description: creates a prototype for the _islower function
- * 
+ *
  * Return: 1 if c is lowercase, 0 otherwise
  */
 int _islower(int c)
@@ -15,16 +15,16 @@ int _islower(int c)
 	'w', 'x', 'y', 'z'};
 	int length = sizeof(lowercase_alphabets) / sizeof(lowercase_alphabets[0]);
 	int i;
-	int returnValue = 0;
+	int retValue = 0;
 
 	for (i = 0; i < length; i++)
 	{
 		if (lowercase_alphabets[i] == c)
 		{
-			returnValue = 1;
+			retValue = 1;
 			break;
 		}
 	}
 
-	return returnValue;
+	return (retValue);
 }
