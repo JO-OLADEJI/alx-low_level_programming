@@ -34,3 +34,13 @@ void print_alphabet_x10(void);
  * Return: 1 if c is lowercase, 0 otherwise
  */
 int _islower(int c);
+
+/**
+ * _isalpha - function prototype
+ * @c: the character to be checked
+ * 
+ * Description: creates a prototype for the _isalpha function
+ * 
+ * Return: 1 if c is a leter (lowercase or uppercase), 0 otherwise
+ */
+int _isalpha(int c);
