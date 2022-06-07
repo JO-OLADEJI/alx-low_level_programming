@@ -1,8 +1,17 @@
 /**
- * _putchar - This is a function declaration
+ * _putchar - function prototype
  * 
  * Description: creates a prototype for the _putchar function
  * 
  * Return: an integer
  */
 int _putchar(char c);
+
+/**
+ * print_alphabet - function prototype
+ * 
+ * Description: creates a prototype for the print_alphabet function
+ * 
+ * Return: nothing (void)
+ */
+void print_alphabet(void);
