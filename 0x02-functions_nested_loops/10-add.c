@@ -2,6 +2,8 @@
 
 /**
  * add - function prototype
+ * @x: first integer
+ * @y: second integer
  *
  * Description: adds two integers and returns the result
  *
