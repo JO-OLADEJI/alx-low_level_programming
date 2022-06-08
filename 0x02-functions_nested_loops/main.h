@@ -64,3 +64,13 @@ int print_sign(int n);
  * Return: an integer
  */
 int _abs(int val);
+
+/**
+ * print_last_digit - function prototype
+ * @number: the value to be changed
+ *
+ * Description: creates a prototype for the print_last_digit function
+ *
+ * Return: an integer
+ */
+int print_last_digit(int number);

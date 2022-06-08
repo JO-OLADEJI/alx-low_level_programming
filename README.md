@@ -41,3 +41,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Check for alphabetic character (either lowercase or uppercase). Return `1` if found, `0` otherwise.
 - Print the sign of a number.
 - Compute the absolute value of an integer.
+- Print the last digit of a number.
