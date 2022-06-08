@@ -45,3 +45,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 - Print the 9 times table, starting with 0.
 - Add two integers and returns the result.
+- Print all natural numbers from `n` to `98`, followed by a new line.

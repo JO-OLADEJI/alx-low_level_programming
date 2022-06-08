@@ -101,3 +101,12 @@ void times_table(void);
  * Return: sum of inputs
  */
 int add(int, int);
+
+/**
+ * print_to_98 - function prototype
+ *
+ * Description: creates a prototype for the print_to_98 function
+ *
+ * Return: no value
+ */
+void print_to_98(int n);
