@@ -44,3 +44,13 @@ int _islower(int c);
  * Return: 1 if c is a leter (lowercase or uppercase), 0 otherwise
  */
 int _isalpha(int c);
+
+/**
+ * print_sign - function prototype
+ * @c: the character to be checked
+ * 
+ * Description: creates a prototype for the print_sign function
+ * 
+ * Return: 1 if c is positive, -1 if c is negative, and 0 otherwise
+ */
+int print_sign(int n);
