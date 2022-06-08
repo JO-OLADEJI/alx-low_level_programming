@@ -74,3 +74,12 @@ int _abs(int val);
  * Return: an integer
  */
 int print_last_digit(int number);
+
+/**
+ * jack_bauer - function prototype
+ *
+ * Description: creates a prototype for the jack_bauer function
+ *
+ * Return: no value
+ */
+void jack_bauer(void);
