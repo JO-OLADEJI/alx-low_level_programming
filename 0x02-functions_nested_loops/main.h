@@ -54,3 +54,13 @@ int _isalpha(int c);
  * Return: 1 if c is positive, -1 if c is negative, and 0 otherwise
  */
 int print_sign(int n);
+
+/**
+ * _abs - function prototype
+ * @val: the value to be changed
+ * 
+ * Description: creates a prototype for the _abs function
+ * 
+ * Return: an integer
+ */
+int _abs(int val);
