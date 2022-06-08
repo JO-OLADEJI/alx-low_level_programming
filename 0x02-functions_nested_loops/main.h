@@ -92,3 +92,12 @@ void jack_bauer(void);
  * Return: no value
  */
 void times_table(void);
+
+/**
+ * add - function prototype
+ *
+ * Description: creates a prototype for the add function
+ *
+ * Return: sum of inputs
+ */
+int add(int, int);
