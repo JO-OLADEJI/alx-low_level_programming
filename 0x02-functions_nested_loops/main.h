@@ -83,3 +83,12 @@ int print_last_digit(int number);
  * Return: no value
  */
 void jack_bauer(void);
+
+/**
+ * times_table - function prototype
+ *
+ * Description: creates a prototype for the times_table function
+ *
+ * Return: no value
+ */
+void times_table(void);
