@@ -94,3 +94,13 @@ void print_diagonal(int n);
  * Return: no value
  */
 void print_square(int size);
+
+/**
+ * print_triangle - function prototype
+ * @size: height of triangle in terms of `#` character
+ *
+ * Description: creates a prototype for the print_triangle function
+ *
+ * Return: no value
+ */
+void print_triangle(int size);

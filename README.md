@@ -60,3 +60,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Draw a diagonal line on the terminal.
 - Print a square, followed by a new line.
 - Print the numbers 1 - 100 followed by a new line, playing `FizzBuzz` alongside.
+- Print a triangle, followed by a new line.
