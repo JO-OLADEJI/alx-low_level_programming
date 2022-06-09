@@ -46,3 +46,8 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print the 9 times table, starting with 0.
 - Add two integers and returns the result.
 - Print all natural numbers from `n` to `98`, followed by a new line.
+
+<br />
+
+### 0x03 More Functions, Nested loops
+- Check for uppercase an character.
