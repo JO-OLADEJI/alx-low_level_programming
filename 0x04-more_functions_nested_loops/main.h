@@ -84,3 +84,13 @@ void print_line(int n);
  * Return: no value
  */
 void print_diagonal(int n);
+
+/**
+ * print_square - function prototype
+ * @size: length of side in terms of `#` character
+ *
+ * Description: creates a prototype for the print_square function
+ *
+ * Return: no value
+ */
+void print_square(int size);

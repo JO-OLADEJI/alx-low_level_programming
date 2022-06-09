@@ -58,3 +58,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print 10 times the numbers, from `0` to `14`, followed by a new line.
 - Draw a straight line in the terminal.
 - Draw a diagonal line on the terminal.
+- Print a square, followed by a new line.
