@@ -74,3 +74,13 @@ void more_numbers(void);
  * Return: no value
  */
 void print_line(int n);
+
+/**
+ * print_diagonal - function prototype
+ * @n: length of line in terms of `\` character
+ *
+ * Description: creates a prototype for the print_diagonal function
+ *
+ * Return: no value
+ */
+void print_diagonal(int n);
