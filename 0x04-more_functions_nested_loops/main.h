@@ -55,3 +55,12 @@ void print_numbers(void);
  * Return: no value
  */
 void print_most_numbers(void);
+
+/**
+ * more_numbers - function prototype
+ *
+ * Description: creates a prototype for the more_numbers function
+ *
+ * Return: no value
+ */
+void more_numbers(void);
