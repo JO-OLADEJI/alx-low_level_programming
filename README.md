@@ -61,3 +61,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print a square, followed by a new line.
 - Print the numbers 1 - 100 followed by a new line, playing `FizzBuzz` alongside.
 - Print a triangle, followed by a new line.
+- Find and print the largest prime factor of the number `612852475143`, followed by a new line.
