@@ -37,3 +37,12 @@ int _isdigit(int c);
  * Return: an integer
  */
 int mul(int a, int b);
+
+/**
+ * print_numbers - function prototype
+ *
+ * Description: creates a prototype for the print_numbers function
+ *
+ * Return: no value
+ */
+void print_numbers(void);

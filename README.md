@@ -53,3 +53,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Check for uppercase an character.
 - Check for a digit (`0` through `9`).
 - Multiplie two integers.
+- Print the numbers, from `0` to `9`, followed by a new line using `_putchar`.
