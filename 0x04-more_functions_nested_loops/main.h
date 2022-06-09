@@ -16,3 +16,13 @@ int _putchar(char c);
  * Return: an integer
  */
 int _isupper(int c);
+
+/**
+ * _isdigit - function prototype
+ * @c: character to be checked
+ *
+ * Description: creates a prototype for the _isdigit function
+ *
+ * Return: an integer
+ */
+int _isdigit(int c);
