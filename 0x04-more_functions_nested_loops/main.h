@@ -46,3 +46,12 @@ int mul(int a, int b);
  * Return: no value
  */
 void print_numbers(void);
+
+/**
+ * print_most_numbers - function prototype
+ *
+ * Description: creates a prototype for the print_most_numbers function
+ *
+ * Return: no value
+ */
+void print_most_numbers(void);
