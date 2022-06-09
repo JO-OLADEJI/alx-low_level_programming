@@ -64,3 +64,13 @@ void print_most_numbers(void);
  * Return: no value
  */
 void more_numbers(void);
+
+/**
+ * print_line - function prototype
+ * @n: length of line in terms of `_` character
+ *
+ * Description: creates a prototype for the print_line function
+ *
+ * Return: no value
+ */
+void print_line(int n);
