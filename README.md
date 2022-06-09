@@ -52,3 +52,4 @@ Repo containing exercises for introduction to the C programming language in the 
 ### 0x03 More Functions, Nested loops
 - Check for uppercase an character.
 - Check for a digit (`0` through `9`).
+- Multiplie two integers.

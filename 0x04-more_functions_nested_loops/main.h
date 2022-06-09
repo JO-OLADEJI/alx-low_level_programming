@@ -26,3 +26,14 @@ int _isupper(int c);
  * Return: an integer
  */
 int _isdigit(int c);
+
+/**
+ * mul - function prototype
+ * @a: first integer
+ * @b: second integer
+ *
+ * Description: creates a prototype for the mul function
+ *
+ * Return: an integer
+ */
+int mul(int a, int b);
