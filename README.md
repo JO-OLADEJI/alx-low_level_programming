@@ -3,7 +3,7 @@ Repo containing exercises for introduction to the C programming language in the 
 
 <br />
 
-### 0x00 Hello World
+### 0x00: Hello World
 - Run a C file through the preprocessor and save the result into another file. The C file name would be saved in the variable `$CFILE`.
 - Compile a C file without linking. The C file name would be saved in the variable `$CFILE`.
 - Generate the assembly code of a C code and save it in an output file.
@@ -16,7 +16,7 @@ Repo containing exercises for introduction to the C programming language in the 
 
 <br />
 
-### 0x01 Variables, if, else, while
+### 0x01: Variables, if, else, while
 - Print whether the random number stored in the `n` variable is positive, negative or zero.
 - Print the last digit of the random number stored in `n`. Check if the number is greater than 5, is 0 or less than 6.
 - Print the lettrs of the alphabets in lowercase using `putchar`.
@@ -33,7 +33,7 @@ Repo containing exercises for introduction to the C programming language in the 
 
 <br />
 
-### 0x02 Functions, Nested loops
+### 0x02: Functions, Nested loops
 - Print `_putchar`, followed by a new line.
 - Print the alphabets, in lowercase, followed by a new line.
 - Print the alphabets 10 times in lowercase, followed by a new line.
@@ -49,7 +49,12 @@ Repo containing exercises for introduction to the C programming language in the 
 
 <br />
 
-### 0x03 More Functions, Nested loops
+### 0x03: Debugging
+- Test that the function `positive_or_negative()` gives the correct output when given a case of `0`.
+
+<br />
+
+### 0x04: More Functions, Nested loops
 - Check for uppercase an character.
 - Check for a digit (`0` through `9`).
 - Multiplie two integers.
