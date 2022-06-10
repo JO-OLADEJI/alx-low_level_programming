@@ -51,6 +51,7 @@ Repo containing exercises for introduction to the C programming language in the 
 
 ### 0x03: Debugging
 - Test that the function `positive_or_negative()` gives the correct output when given a case of `0`.
+- Comment out the part of the code that is causing the output of the file `1-main.c` to go into an infinite loop.
 
 <br />
 
