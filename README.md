@@ -53,6 +53,7 @@ Repo containing exercises for introduction to the C programming language in the 
 - Test that the function `positive_or_negative()` gives the correct output when given a case of `0`.
 - Comment out the part of the code that is causing the output of the file `1-main.c` to go into an infinite loop.
 - Fix the code in `2-largest_number.c` so that it correctly prints out the largest of three numbers, no matter the case.
+- Fix the `print_remaining_days()` function so that the output works correctly for all dates and all leap years.
 
 <br />
 
