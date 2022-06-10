@@ -104,3 +104,13 @@ void print_square(int size);
  * Return: no value
  */
 void print_triangle(int size);
+
+/**
+ * print_number - function prototype
+ * @n: integer to print
+ *
+ * Description: creates a prototype for the print_number function
+ *
+ * Return: no value
+ */
+void print_number(int n);
