@@ -77,3 +77,4 @@ Repo containing exercises for introduction to the C programming language in the 
 ### 0x05: Pointers, Arrays and Strings
 - Write a function that takes a pointer to an `int` as parameter and updates the value it points to to `98`.
 - Write a function that swaps the values of two integers.
+- Write a function that returns the length of a string.
