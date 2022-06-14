@@ -81,3 +81,4 @@ Repo containing exercises for introduction to the C programming language in the 
 - Write a function that prints a string, followed by a new line, to `stdout`.
 - Write a function that prints a string, in reverse, followed by a new line.
 - Write a function that reverses a string.
+- Write a function that prints every other character of a string, starting with the first character, followed by a new line.
