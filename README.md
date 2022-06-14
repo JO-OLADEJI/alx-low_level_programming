@@ -71,3 +71,8 @@ Repo containing exercises for introduction to the C programming language in the 
 - Print a triangle, followed by a new line.
 - Find and print the largest prime factor of the number `612852475143`, followed by a new line.
 - Print and integer using `_putchar`.
+
+<br />
+
+### 0x05: Pointers, Arrays and Strings
+- Write a function that takes a pointer to an `int` as parameter and updates the value it points to to `98`.
